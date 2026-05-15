@@ -13,10 +13,9 @@
 
 ---
 
-## 🧑‍💻 About me
+# 🧑‍💻 About Me
 
 I'm a passionate **Full-Stack Developer** focused on building scalable backend systems and clean, intuitive interfaces.
-I enjoy working across the full stack — from crafting REST APIs with **NestJS** & **FastAPI** to deploying containerized apps with **Docker** & **Kubernetes**.
 
 - 🦊 Always learning, always building
 - 🌎 Open to collaborating on interesting projects
@@ -24,67 +23,72 @@ I enjoy working across the full stack — from crafting REST APIs with **NestJS*
 
 ---
 
-## 🧠 Tech Stack
+# 🧠 Tech Stack
 
-### Backend
+## ⚙️ Backend
+
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=nestjs,fastapi,nodejs,php,java,python,go,rust&theme=dark" alt="Backend skills" />
-
-</div>
-
-### Frontend
-<div align="center">
-
-<img src="https://skillicons.dev/icons?i=react,ts,js,html,css,tailwind&theme=dark" alt="Frontend skills" />
-
-</div>
-
-### Databases
-<div align="center">
-
-<img src="https://skillicons.dev/icons?i=postgres,mysql,sqlite&theme=dark" alt="Database skills" />
-
-</div>
-
-### DevOps & Cloud
-<div align="center">
-
-<img src="https://skillicons.dev/icons?i=docker,kubernetes,aws,git&theme=dark" alt="DevOps skills" />
+| Technology | Icon |
+|---|---|
+| FastAPI | <img src="https://skillicons.dev/icons?i=fastapi" width="48" /> |
+| Node.js | <img src="https://skillicons.dev/icons?i=nodejs" width="48" /> |
+| PHP | <img src="https://skillicons.dev/icons?i=php" width="48" /> |
+| Java | <img src="https://skillicons.dev/icons?i=java" width="48" /> |
+| Python | <img src="https://skillicons.dev/icons?i=python" width="48" /> |
+| Go | <img src="https://skillicons.dev/icons?i=go" width="48" /> |
+| Rust | <img src="https://skillicons.dev/icons?i=rust" width="48" /> |
 
 </div>
 
 ---
 
-## 📊 GitHub Stats
+## 🎨 Frontend
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Carlvalencia1&show_icons=true&theme=tokyonight&hide_title=false&count_private=true&include_all_commits=true&border_radius=10" height="170" alt="GitHub stats" />
-&nbsp;
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Carlvalencia1&layout=compact&theme=tokyonight&langs_count=6&border_radius=10" height="170" alt="Top languages" />
-
-</div>
-
-<div align="center">
-
-<img src="https://streak-stats.demolab.com?user=Carlvalencia1&theme=tokyonight&hide_border=false&border_radius=10&date_format=M%20j%5B%2C%20Y%5D" height="170" alt="GitHub streak" />
-
-</div>
-
----
-
-## 🏆 Achievements & Trophies
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=Carlvalencia1&theme=tokyonight&margin-w=12&margin-h=12&column=6&no-bg=true" alt="GitHub trophies" />
+| Technology | Icon |
+|---|---|
+| React | <img src="https://skillicons.dev/icons?i=react" width="48" /> |
+| TypeScript | <img src="https://skillicons.dev/icons?i=ts" width="48" /> |
+| JavaScript | <img src="https://skillicons.dev/icons?i=js" width="48" /> |
+| HTML5 | <img src="https://skillicons.dev/icons?i=html" width="48" /> |
+| CSS3 | <img src="https://skillicons.dev/icons?i=css" width="48" /> |
+| TailwindCSS | <img src="https://skillicons.dev/icons?i=tailwind" width="48" /> |
 
 </div>
 
 ---
 
-## 📦 Pinned Repositories
+## 🗄️ Databases
+
+<div align="center">
+
+| Database | Icon |
+|---|---|
+| PostgreSQL | <img src="https://skillicons.dev/icons?i=postgres" width="48" /> |
+| MySQL | <img src="https://skillicons.dev/icons?i=mysql" width="48" /> |
+| SQLite | <img src="https://skillicons.dev/icons?i=sqlite" width="48" /> |
+
+</div>
+
+---
+
+## ☁️ DevOps & Tools
+
+<div align="center">
+
+| Tool | Icon |
+|---|---|
+| Docker | <img src="https://skillicons.dev/icons?i=docker" width="48" /> |
+| AWS | <img src="https://skillicons.dev/icons?i=aws" width="48" /> |
+| Git | <img src="https://skillicons.dev/icons?i=git" width="48" /> |
+
+</div>
+
+---
+
+# 📦 Pinned Repositories
 
 <div align="center">
 
@@ -95,6 +99,8 @@ I enjoy working across the full stack — from crafting REST APIs with **NestJS*
 <a href="https://github.com/Carlvalencia1/sistema-medico-backend">
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=Carlvalencia1&repo=sistema-medico-backend&theme=tokyonight&border_radius=10" height="140" alt="sistema-medico-backend" />
 </a>
+
+<br/><br/>
 
 <a href="https://github.com/Carlvalencia1/Streamhub">
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=Carlvalencia1&repo=Streamhub&theme=tokyonight&border_radius=10" height="140" alt="Streamhub" />
@@ -108,7 +114,7 @@ I enjoy working across the full stack — from crafting REST APIs with **NestJS*
 
 ---
 
-## 📈 Contribution Activity
+# 📈 Contribution Activity
 
 <div align="center">
 
@@ -118,18 +124,22 @@ I enjoy working across the full stack — from crafting REST APIs with **NestJS*
 
 ---
 
-## 🤝 Connect with me
+# 🤝 Connect With Me
 
 <div align="center">
 
 <a href="https://www.linkedin.com/in/carlos-daniel-valencia-d%C3%ADaz-8b5b611b9/">
   <img src="https://img.shields.io/badge/LinkedIn-Carlos%20Valencia-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
 </a>
+
 &nbsp;
+
 <a href="mailto:cvalenciad428@gmail.com">
   <img src="https://img.shields.io/badge/Gmail-cvalenciad428@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
 </a>
+
 &nbsp;
+
 <a href="https://www.instagram.com/carls_vd/">
   <img src="https://img.shields.io/badge/Instagram-@carls__vd-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
 </a>
@@ -140,8 +150,8 @@ I enjoy working across the full stack — from crafting REST APIs with **NestJS*
 
 <div align="center">
 
-![Profile views](https://komarev.com/ghpvc/?username=Carlvalencia1&color=534AB7&style=flat-square&label=Profile+views)
+![Profile views](https://komarev.com/ghpvc/?username=Carlvalencia1&color=534AB7&style=flat-square&label=Profile+Views)
 
-*"First, solve the problem. Then, write the code." – John Johnson*
+### 💻 "First, solve the problem. Then, write the code."
 
 </div>
